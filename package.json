@@ -1,0 +1,24 @@
+{
+  "name": "jsdebug",
+  "version": "0.0.1",
+  "description": "A next generation JavaScript debugger",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basarat/jsdebug.git"
+  },
+  "keywords": [
+    "debugger",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Basarat Ali Syed <basaratali@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/jsdebug/issues"
+  },
+  "homepage": "https://github.com/basarat/jsdebug#readme"
+}
